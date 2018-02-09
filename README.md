@@ -1,4 +1,4 @@
-# Isomorphic Bluetooth example usine daydream-node
+# Isomorphic Bluetooth example using daydream-node
 
 `npm install`
 
