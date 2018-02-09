@@ -1,4 +1,4 @@
-# Isomorphic Bluetooth example usine daydream-noDeprecation
+# Isomorphic Bluetooth example usine daydream-node
 
 `npm install`
 
