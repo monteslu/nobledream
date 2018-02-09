@@ -1,0 +1,21 @@
+{
+  "name": "nobledream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify browser_example.js -o bundle.js",
+    "start": "ecstatic --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.0.0",
+    "bufferutil": "^3.0.3",
+    "daydream-node": "github:monteslu/daydream-node#webbluetooth",
+    "ecstatic": "^3.2.0",
+    "utf-8-validate": "^4.0.0",
+    "ws": "^4.0.0"
+  }
+}
