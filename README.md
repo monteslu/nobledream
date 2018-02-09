@@ -10,6 +10,10 @@ Make sure your daydream controller is on by pressing its buttons.
 
 ## run example in browser:
 
+code example is running here:  [https://daydream.surge.sh](https://daydream.surge.sh)
+
+OR -
+
 `npm run build`
 
 `npm run start`
